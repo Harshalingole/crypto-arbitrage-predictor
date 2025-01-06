@@ -1,7 +1,6 @@
 import express, { Application } from 'express'
 import dotenv from 'dotenv'
 import cors from 'cors'
-import errorHandler from 'errorhandler'
 import cookieParser from 'cookie-parser'
 
 dotenv.config()
